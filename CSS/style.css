@@ -166,6 +166,7 @@ header nav ul li a {
     background-image: url(../images/mobile/image-header.jpg);
     background-size: cover;
     padding-top: 12.5rem;
+    background-position: center;
 }
 
 .hero h1 {
